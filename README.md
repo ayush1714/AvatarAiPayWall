@@ -2,7 +2,7 @@
 <div align="center">
   <img height="400" src="assets/screenshot.png" alt="ss">
   <h1><b>AvatarAiPayWall</b></h1>
-  <p>SpotifyVideoPlayer is a SwiftUI-based music player that replicates the Spotify video playback experience, featuring smooth transitions, interactive controls, and a visually engaging UI. The app integrates a background video player, song lyrics display, artist details, and a merchandise section, providing a rich and immersive music streaming experience.<br>
+  <p>A beautifully designed paywall screen built with SwiftUI as a practice project. Inspired by modern subscription flows, this paywall offers a seamless user experience with animated elements, gradient backgrounds, and a carousel of images.<br>
 </div>
 
 ## ✨ Features
